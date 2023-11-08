@@ -13,7 +13,7 @@ Semanta is a Next.js and ONNX template for developers looking to integrate Meta'
 
 ### Installation
 
-`git clone https://github.com/<your-username>/sam-onnx.git`
+`git clone https://github.com/cantoramann/semanta.git`
 
 `npm i`
 
