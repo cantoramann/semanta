@@ -1,3 +1,5 @@
+![](https://github.com/cantoramann/semanta/blob/main/demo.gif)
+
 # Semanta
 
 This project is not a fork, but it refers to `https://github.com/facebookresearch/segment-anything`.
